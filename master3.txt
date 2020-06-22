@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-hi this is my third file
-
-hddsss
-=======
 hi this is my third filedsdsds
 
->>>>>>> 4b240c971012f4ed8e8797a99cf7aabcab3cce31
+hddsss
+
+
+
